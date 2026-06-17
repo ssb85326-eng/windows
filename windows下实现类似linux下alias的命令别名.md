@@ -11,4 +11,4 @@ doskey git=D:\MSYS\usr\bin\git $*
 更多用法，请查看帮助`doskey /?` <br>
 
 但是有一点你在命令提示符窗口中设置，就只对当前命令提示符窗口窗口有效，总不能每次打开一个新的命令提示符窗口都要设置一遍吧，这样就没有意义了。<br>
-要做到对所有窗口都生效,请看我的另一篇文章：[cmd启动时自动执行批处理.md](https://github.com/hosxy/Settings/blob/master/Windows/cmd/cmd%E5%90%AF%E5%8A%A8%E6%97%B6%E8%87%AA%E5%8A%A8%E6%89%A7%E8%A1%8C%E6%89%B9%E5%A4%84%E7%90%86.md)
+要做到对所有窗口都生效,请看我的另一篇文章：cmd启动时自动执行批处理.md
